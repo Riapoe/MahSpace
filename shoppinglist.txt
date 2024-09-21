@@ -4,3 +4,4 @@ Eier
 Semmelbroesel
 Salz
 Erdnussoel
+Bier

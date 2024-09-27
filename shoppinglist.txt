@@ -14,4 +14,8 @@ Mariellenmarmelade
 Kaffee
 Tee
 Kandiszuckerr
+<<<<<<< HEAD
 Schlagobers
+=======
+Schokosauce
+>>>>>>> bc228a2 (add chocolate sauce)
